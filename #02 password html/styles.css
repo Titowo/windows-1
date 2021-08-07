@@ -1,0 +1,21 @@
+body {
+    background-color: azure;
+    text-align: center;
+    border: 1px;
+    padding: 8px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+button {
+    font-size: 40px;
+}
+
+
+.idi {
+    font-size: 35px;
+    font-family: monospace;
+}
